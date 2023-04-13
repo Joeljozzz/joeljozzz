@@ -1,4 +1,4 @@
-                                                                     Hi, I'm Joel Jose!👋🕊️
+                                                                  Hi, I'm Joel Jose!👋🕊️
 .........................................................................................................................................................................
 I'm a Data Science enthusiast with a passion for Python, Excel, KNIME, Google Data Studio, PowerBI, machine learning, and SQL. I completed my Bachelor's degree in Information Technology from SIES College of Arts Science and Commerce (Mumbai University Affiliated), and I'm currently enrolled in the Data Analytics for Business Decision Making course at Durham College in Canada.
 
