@@ -1,12 +1,7 @@
                                                         Hi, I'm Joel Jose!👋🕊️
+a passionate and results-driven data scientist with over 3 years of experience in machine learning, statistical modeling, and big data analytics. A recent graduate with honors in Cloud Computing and Data Science post-graduate certifications, I also hold a Bachelor of Science in Information Technology from Mumbai University. My expertise lies in developing and deploying data-driven solutions that streamline operations, improve decision-making, and drive business growth.
 
-I'm a Data Science enthusiast with a passion for Python, Excel, KNIME, Google Data Studio, PowerBI, machine learning, and SQL. I completed my Bachelor's degree in Information Technology from SIES College of Arts Science and Commerce (Mumbai University Affiliated), and I'm currently enrolled in the Data Analytics for Business Decision Making course at Durham College in Canada.
+My technical skill set spans Python, R, SQL, Excel, Power BI, KNIME, Google Data Studio, and cloud platforms like AWS, Azure, and GCP. With a proven track record of delivering impactful projects in financial analytics, data manipulation pipelines, web development, BI reporting, cloud infrastructure deployment, and automation, I thrive on tackling complex challenges and creating scalable systems.
 
-Aside from my studies, I love exploring new technologies and building cool projects. I've developed Discord bots, web applications for general purposes, and even worked on a final year project called Pulse Infographics during my Bachelors. I'm also well-versed in backend development.
-
-Before moving to Canada, I've completed two internships, one at ERP Launchpad and the other at Mettler Toledo GBSI. These internships have allowed me to gain hands-on experience in the industry, and I'm excited to continue learning and growing in my field.
-
-I'm always looking for new opportunities and challenges, so feel free to connect with me! Let's collaborate and make something amazing.
-
-.............
+I am a versatile professional adept at testing and integrating workflows, automating deployments, cleaning datasets, and documenting technical processes. As a technical polymath, I excel at collaborating with cross-functional teams to design innovative solutions that bridge the gap between business goals and technology. My career objective is to leverage my diverse skill set to contribute to transformative data advancements and empower organizations through actionable insights.
 
