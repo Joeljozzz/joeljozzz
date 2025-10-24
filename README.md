@@ -1,12 +1,12 @@
                                                         Hi, I'm Joel Jose!👋🕊️
 
-🎯 **Data Scientist | Machine Learning Enthusiast | Cloud & Analytics Professional**  
+🎯 **Data Science Enthusiast | Machine Learning Engineer | Cloud & Analytics Professional**  
 
 ---
 
 ## 🚀 About Me  
 
-I’m a **passionate and results-driven Data Scientist** with over **3 years of experience** in **machine learning, statistical modeling, and big data analytics**.  
+I’m a **passionate and results-driven Data Science Enthusiast** with over **2 years of experience** in **machine learning, statistical modeling, and big data analytics**.  
 A recent graduate with honors in **Cloud Computing and Data Science**, I also hold a **Bachelor of Science in Information Technology** from *Mumbai University*.
 
 My work revolves around developing and deploying **data-driven solutions** that streamline operations, enhance decision-making, and drive measurable business growth.  
@@ -53,8 +53,6 @@ I’m currently seeking a **full-time Data Science or Analytics role** where I c
 ---
 
 ## 🤝 Let’s Connect  
-
-📫 **Email:** [your.email@example.com]  
 🌐 **LinkedIn:** [linkedin.com/in/joeljozzz](https://linkedin.com/in/joeljozzz)  
 💻 **GitHub:** [github.com/Joeljozzz](https://github.com/Joeljozzz)  
 
