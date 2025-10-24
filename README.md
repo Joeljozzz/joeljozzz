@@ -53,7 +53,7 @@ I’m currently seeking a **full-time Data Science or Analytics role** where I c
 ---
 
 ## 🤝 Let’s Connect  
-🌐 **LinkedIn:** [linkedin.com/in/joeljozzz](https://linkedin.com/in/joeljozzz)  
+🌐 **LinkedIn:** [linkedin.com/in/joeljozzz]([https://linkedin.com/in/joeljozzz](https://www.linkedin.com/in/joel-jose-878a071a9/))  
 💻 **GitHub:** [github.com/Joeljozzz](https://github.com/Joeljozzz)  
 
 ---
