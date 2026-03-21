@@ -1,62 +1,73 @@
-                                                        Hi, I'm Joel Jose!👋🕊️
+# Joel Jose
 
-🎯 **Data Science Enthusiast | Machine Learning Engineer | Cloud & Analytics Professional**  
-
----
-
-## 🚀 About Me  
-
-I’m a **passionate and results-driven Data Science Enthusiast** with over **2 years of experience** in **machine learning, statistical modeling, and big data analytics**.  
-A recent graduate with honors in **Cloud Computing and Data Science**, I also hold a **Bachelor of Science in Information Technology** from *Mumbai University*.
-
-My work revolves around developing and deploying **data-driven solutions** that streamline operations, enhance decision-making, and drive measurable business growth.  
+Data Scientist · AI Engineer · Still learning 🕊️
 
 ---
 
-## 🧠 What I Do  
+I'm currently at **Mettler Toledo** building GenAI tools, Python automations, and web applications that connect to enterprise systems and replace workflows that shouldn't be manual anymore.
 
-- 🔹 Build and optimize **machine learning and statistical models**  
-- 🔹 Develop **data pipelines** for cleaning, transformation, and automation  
-- 🔹 Create insightful **Power BI and Google Data Studio dashboards**  
-- 🔹 Work with **cloud platforms** (AWS, Azure, GCP) for scalable deployments  
-- 🔹 Collaborate cross-functionally to turn data into **actionable business insights**  
+Before this I spent two years in Canada — studying Cloud Computing and Data Analysis at Durham College, tutoring students in data analysis, and briefly working at a Toronto AI startup where I shipped an NLP/ML feature into production on an AWS Kubernetes cluster.
+
+I care about the full thing: clean data, a model that actually works, and something deployed that people can use.
 
 ---
 
-## 🛠️ Technical Skills  
+## What I work with
 
-**Programming & Analytics:** Python, R, SQL, Excel, KNIME  
-**Visualization & BI:** Power BI, Google Data Studio  
-**Cloud & DevOps:** AWS, Azure, GCP  
-**Other Skills:** Data Cleaning, Statistical Analysis, Automation Scripts, Forecasting Models  
-
----
-
-## 💼 Experience Highlights  
-
-- Designed and implemented **data pipelines** improving reporting efficiency  
-- Developed **predictive models** for financial analytics and forecasting  
-- Automated data validation workflows and integrated **cloud-based solutions**  
-- Contributed to **web development and BI reporting** initiatives enhancing visibility  
-- Documented technical workflows ensuring clarity and reproducibility  
+```
+Languages     Python · SQL · R
+ML / AI       scikit-learn · TensorFlow · LangChain · KNIME
+Data & BI     Power BI · Kibana · Google Data Studio · Informatica
+Cloud         AWS · Azure · GCP · Docker · Kubernetes
+Databases     PostgreSQL · MySQL · Neo4j
+Web           Flask · HTML/CSS/JS · Vercel
+```
 
 ---
 
-## 🎯 Career Objective  
+## A few things I've built
 
-I’m currently seeking a **full-time Data Science or Analytics role** where I can:  
-- Apply my expertise in **data analysis, modeling, and automation**  
-- Contribute to **operational excellence** and **business intelligence** initiatives  
-- Support teams through **data validation, cleaning, and forecasting insights**  
-- Deliver meaningful data-driven impact that supports decision-making  
+**GenAI tools in production** — LLM-powered applications that automate internal business workflows. Can't show the code, but they're running.
 
----
+**[Energy Price Predictor](https://github.com/Joeljozzz)** — DNN-based financial forecasting model built at Blackcoffer. Designed to give equity research analysts a data-backed signal on energy prices.
 
-## 🤝 Let’s Connect  
-🌐 **LinkedIn:** [linkedin.com/in/joeljozzz](https://www.linkedin.com/in/joel-jose-878a071a9/)
-💻 **GitHub:** [github.com/Joeljozzz](https://github.com/Joeljozzz)  
+**[NLP Feature at Wouessi Inc.](https://github.com/Joeljozzz)** — Contributed to an AI-driven NLP product. Built the ML pipeline feature, containerised with Docker, deployed to AWS Kubernetes.
+
+**[Pulse Infographics](https://github.com/Joeljozzz/Pulse_Infographics)** — Multi-framework web project that unifies data from different fields into a single visual interface. Final year project from my IT degree.
+
+**[SQL Projects](https://github.com/Joeljozzz/SQL-projects)** · **[Power BI Dashboards](https://github.com/Joeljozzz/Powerbi-dashboards)** · **[Kibana Dashboards](https://github.com/Joeljozzz/Kibana-dashboards)** · **[Neo4j + Python](https://github.com/Joeljozzz/PYTHON_NEO4J)**
 
 ---
 
-> “Turning complex data into simple, actionable insights — one model at a time.”  
+## Certifications
 
+AWS Cloud Foundations · KNIME Analytics Platform · Python (HackerRank Gold) · Kaggle Competitor
+
+---
+
+## Where I've been
+
+| Role | Company | When |
+|---|---|---|
+| Data Analyst | Mettler-Toledo International | Nov 2025 – present |
+| Software Engineer | Wouessi Inc., Toronto | Mar – Apr 2025 |
+| Associate | ManpowerGroup, Ontario | May 2023 – Jul 2025 |
+| Peer Tutor (Data Analysis) | Durham College | Sep – Dec 2023 |
+| Data Analyst Intern | Mettler Toledo | Oct 2022 – Mar 2023 |
+| Data Science Intern | Blackcoffer | May – Jul 2022 |
+| Data Validation Intern | Accrete | Sep – Oct 2022 |
+| Data Analyst Intern | ERP Launchpad | Aug – Sep 2022 |
+
+---
+
+## Education
+
+**Postgrad · Cloud Computing** — Durham College, Ontario (2024)  
+**Postgrad · Data Analysis** — Durham College, Ontario (2023)  
+**BSc Information Technology** — SIES College, Mumbai University (2022)
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/joel-jose-878a071a9/) · [Portfolio](https://github.com/Joeljozzz)
+
+Mumbai, India · Open to relocation
