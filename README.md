@@ -68,6 +68,6 @@ AWS Cloud Foundations · KNIME Analytics Platform · Python (HackerRank Gold) ·
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/joel-jose-878a071a9/) · [Portfolio](https://github.com/Joeljozzz)
+[LinkedIn](https://www.linkedin.com/in/joel-jose-878a071a9/) · [Portfolio]([https://github.com/Joeljozzz](https://data-analyst-portfolio-git-main-joel-joses-projects.vercel.app/))
 
 Mumbai, India · Open to relocation
