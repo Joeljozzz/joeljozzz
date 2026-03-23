@@ -18,7 +18,7 @@
 
 ---
 
-## System Profile
+## Joel Jose
 
 I'm currently at **Mettler Toledo** building GenAI tools, Python automations, and web applications that connect to enterprise systems and replace workflows that shouldn't be manual anymore.
 
