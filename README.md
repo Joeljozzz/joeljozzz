@@ -39,3 +39,52 @@ Before this I spent two years in Canada — studying Cloud Computing and Data An
 │  Databases      PostgreSQL · MySQL · Neo4j              │
 │  Web            Flask · HTML/CSS/JS · Vercel            │
 └─────────────────────────────────────────────────────────┘
+## A few things I've built
+
+| Project | Description |
+|---|---|
+| **GenAI tools in production** | LLM-powered applications that automate internal business workflows. Can't show the code, but they're running. |
+| **[Energy Price Predictor](https://github.com/Joeljozzz)** | DNN-based financial forecasting model built at Blackcoffer to give equity research analysts a data-backed signal on energy prices. |
+| **[NLP Feature at Wouessi Inc.](https://github.com/Joeljozzz)** | Contributed to an AI-driven NLP product. Built the ML pipeline feature, containerised with Docker, deployed to AWS Kubernetes. |
+| **[Pulse Infographics](https://github.com/Joeljozzz/Pulse_Infographics)** | Multi-framework web project that unifies data from different fields into a single visual interface. |
+
+> **More Repositories:** [SQL Projects](https://github.com/Joeljozzz/SQL-projects) · [Power BI Dashboards](https://github.com/Joeljozzz/Powerbi-dashboards) · [Kibana Dashboards](https://github.com/Joeljozzz/Kibana-dashboards) · [Neo4j + Python](https://github.com/Joeljozzz/PYTHON_NEO4J)
+
+---
+
+## Where I've been
+
+| Role | Company | When |
+|---|---|---|
+| **Data Analyst** | Mettler-Toledo International | Nov 2025 – present |
+| **Software Engineer** | Wouessi Inc., Toronto | Mar – Apr 2025 |
+| **Associate** | ManpowerGroup, Ontario | May 2023 – Jul 2025 |
+| **Peer Tutor** (Data Analysis) | Durham College | Sep – Dec 2023 |
+| **Data Analyst Intern** | Mettler Toledo | Oct 2022 – Mar 2023 |
+| **Data Science Intern** | Blackcoffer | May – Jul 2022 |
+| **Data Validation Intern**| Accrete | Sep – Oct 2022 |
+| **Data Analyst Intern** | ERP Launchpad | Aug – Sep 2022 |
+
+---
+
+## Education & Certifications
+
+**Postgrad · Cloud Computing** — Durham College, Ontario (2024)  
+**Postgrad · Data Analysis** — Durham College, Ontario (2023)  
+**BSc Information Technology** — SIES College, Mumbai University (2022)
+
+> **Certifications:** AWS Cloud Foundations · KNIME Analytics Platform · Python (HackerRank Gold) · Kaggle Competitor
+
+---
+
+<div align="center">
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=13&duration=4000&pause=1000&color=6B7280&center=true&vCenter=true&repeat=true&width=500&lines=Designed+and+built+with+care+by+Joel+Jose;Data+Science+%7C+ML+%7C+Cloud+%7C+Mumbai;github.com%2FJoeljozzz)](https://github.com/Joeljozzz)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4f46e5&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
