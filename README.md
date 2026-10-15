@@ -51,9 +51,9 @@ I'm an **AI Engineer & Data Scientist** at **Mettler Toledo**, building GenAI to
 <td width="50%" valign="top">
 
 ### 🧠 [AI Engineer's Handbook](https://github.com/Joeljozzz/ai-repo)
-**Stanford-grade AI curriculum & interactive engineering platform** spanning 44 modules across 6 tracks — from mathematical first principles and backpropagation calculus to RoPE rotary embeddings, LangGraph state machines, multi-agent swarms, and production RAG evaluation.
+**Stanford-grade AI curriculum & interactive engineering platform** spanning 70 modules and lessons — featuring the complete 12-week, 26-lesson, 52-quiz **ML for Beginners Masterclass**, RoPE rotary embeddings, LangGraph state machines, multi-agent swarms, and production RAG evaluation.
 
-`Next.js 16` `React 19` `TypeScript` `PyTorch` `RAG` `Agents`
+`Next.js 16` `React 19` `TypeScript` `PyTorch` `ML Foundations` `52 Quizzes`
 
 </td>
 <td width="50%" valign="top">
